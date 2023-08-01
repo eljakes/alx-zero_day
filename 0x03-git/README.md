@@ -1,1 +1,2 @@
-Make sure you include a not empty readme.md
+[master 9609c5f] A not empty file
+ 1 file changed, 1 insertion(+)
